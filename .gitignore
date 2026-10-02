@@ -1,0 +1,12 @@
+gpu_player
+game_state/
+*.o
+*.obj
+*.exe
+*.out
+*.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
